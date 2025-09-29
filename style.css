@@ -1,8 +1,12 @@
 body{ 
-    background: coral;
+    background-color: coral;
     text-align: center;
     font-style: "Arial"
+    
 }
 img{
     width: 200px;
+}
+h4{
+    font-size: 30px;
 }
